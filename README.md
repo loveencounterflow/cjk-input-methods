@@ -24,7 +24,7 @@ A collection of keyboards &amp; techniques old &amp; new to input Chinese, Japan
 * https://deskthority.net/viewtopic.php?t=21937
 * https://live.staticflickr.com/65535/50173162906_bc39390a75_o.jpg
 
-![](https://github.com/loveencounterflow/cjk-input-methods/raw/main/ALPS%20CP10SJ550A%20Kanji%20Keyboard/50173162906_bc39390a75_o.small.jpg)
+![](ALPS%20CP10SJ550A%20Kanji%20Keyboard/50173162906_bc39390a75_o.small.jpg)
 
 
 ##
@@ -42,7 +42,7 @@ A collection of keyboards &amp; techniques old &amp; new to input Chinese, Japan
 > COURTESY OF THE THOMAS S. MULLANEY EAST ASIAN INFORMATION TECHNOLOGY HISTORY COLLECTION, STANFORD
 > UNIVERSITY
 >
-> ![](https://github.com/loveencounterflow/cjk-input-methods/raw/main/IPX/Chinese-character.jpg)
+> ![](IPX/Chinese-character.jpg)
 > *Character closeup.*
 >
 > “Iron Eagle” immediately caught the attention of Taiwanese brass. Taiwan’s Joint Chiefs of Staff suggested
@@ -62,7 +62,8 @@ A collection of keyboards &amp; techniques old &amp; new to input Chinese, Japan
 > The Ideographix IPXCOURTESY OF THE THOMAS S. MULLANEY EAST ASIAN INFORMATION TECHNOLOGY HISTORY
 > COLLECTION, STANFORD UNIVERSITY
 >
-> The Ideographix IPX
+> ![](IPX/Mullaney_IPX_Ideographix-final.jpg)
+> *The Ideographix IPX*
 >
 > For roughly the first seven years of its existence, “Iron Eagle”—now renamed IPX—was limited to use by the
 > Taiwanese and American militaries. Two of Yeh’s first major non-military clients were Taiwan’s
@@ -81,6 +82,5 @@ A collection of keyboards &amp; techniques old &amp; new to input Chinese, Japan
 > the paper to scoop its rivals, with a morning edition that included news that broke too late for other
 > papers to cover.
 
-![](https://github.com/loveencounterflow/cjk-input-methods/raw/main/IPX/Mullaney_IPX_Ideographix-final.jpg)
 
 
