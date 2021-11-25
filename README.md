@@ -23,5 +23,5 @@ A collection of keyboards &amp; techniques old &amp; new to input Chinese, Japan
 * https://deskthority.net/viewtopic.php?t=21937
 * https://live.staticflickr.com/65535/50173162906_bc39390a75_o.jpg
 
-![](./raw/main/ALPS%20CP10SJ550A%20Kanji%20Keyboard/50173162906_bc39390a75_o.small.jpg)
+![](https://github.com/loveencounterflow/cjk-input-methods/raw/main/ALPS%20CP10SJ550A%20Kanji%20Keyboard/50173162906_bc39390a75_o.small.jpg)
 
