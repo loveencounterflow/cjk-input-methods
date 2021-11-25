@@ -9,7 +9,7 @@
 
 - [CJK Input Methods](#cjk-input-methods)
   - [ALPS CP10SJ550A Kanji Keyboard](#alps-cp10sj550a-kanji-keyboard)
-  - [](#)
+  - [The Iron Eagle / Ideographix IPX](#the-iron-eagle--ideographix-ipx)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -27,7 +27,7 @@ A collection of keyboards &amp; techniques old &amp; new to input Chinese, Japan
 ![](ALPS%20CP10SJ550A%20Kanji%20Keyboard/50173162906_bc39390a75_o.small.jpg)
 
 
-##
+## The Iron Eagle / Ideographix IPX
 
 * https://qz.com/2014491/the-asian-american-immigrants-behind-key-technology-innovations/
 * https://cms.qz.com/wp-content/uploads/2021/05/Mullaney_IPX_Ideographix-final.jpg?quality=75&strip=all&w=620&h=442&crop=1
@@ -39,11 +39,11 @@ A collection of keyboards &amp; techniques old &amp; new to input Chinese, Japan
 > into the computer age. Yeh nicknamed his side-venture “Iron Eagle,” on account of the Chinese characters
 > that he first digitized: ying (eagle) and tie (iron).
 >
-> COURTESY OF THE THOMAS S. MULLANEY EAST ASIAN INFORMATION TECHNOLOGY HISTORY COLLECTION, STANFORD
-> UNIVERSITY
->
 > ![](IPX/Chinese-character.jpg)
 > *Character closeup.*
+>
+> COURTESY OF THE THOMAS S. MULLANEY EAST ASIAN INFORMATION TECHNOLOGY HISTORY COLLECTION, STANFORD
+> UNIVERSITY
 >
 > “Iron Eagle” immediately caught the attention of Taiwanese brass. Taiwan’s Joint Chiefs of Staff suggested
 > that Yeh quit IBM, and focus on the project full-time. Yeh agreed and attempted to resign, but was
@@ -59,11 +59,11 @@ A collection of keyboards &amp; techniques old &amp; new to input Chinese, Japan
 > The flagship product of Ideographix was the IPX, a computerized phototypesetting system that would change
 > Chinese printing forever.
 >
-> The Ideographix IPXCOURTESY OF THE THOMAS S. MULLANEY EAST ASIAN INFORMATION TECHNOLOGY HISTORY
-> COLLECTION, STANFORD UNIVERSITY
->
 > ![](IPX/Mullaney_IPX_Ideographix-final.jpg)
 > *The Ideographix IPX*
+>
+> COURTESY OF THE THOMAS S. MULLANEY EAST ASIAN INFORMATION TECHNOLOGY HISTORY COLLECTION, STANFORD
+> UNIVERSITY
 >
 > For roughly the first seven years of its existence, “Iron Eagle”—now renamed IPX—was limited to use by the
 > Taiwanese and American militaries. Two of Yeh’s first major non-military clients were Taiwan’s
